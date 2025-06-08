@@ -1,0 +1,7 @@
+*capital.txt
+*trade.txt
+*out.txt
+*.pyc
+__pycache__
+.vscode
+*.o
