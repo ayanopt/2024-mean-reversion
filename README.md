@@ -1,4 +1,7 @@
 # Public version of algorithm development
+Look at article.md for more.
+
+
 My anti-microservice behemoth. I developed this in 2024, wanting a simple and clean mean reversion algorithm.
 
 
