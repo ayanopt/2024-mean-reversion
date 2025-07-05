@@ -1,5 +1,5 @@
 # Public version of algorithm development
-My anti-microservice behemoth
+My anti-microservice behemoth. I developed this in 2024, wanting a simple and clean mean reversion algorithm.
 
 
 launcher starts (price_stream, pair_data_loaders)
